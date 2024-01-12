@@ -3,6 +3,11 @@
 int main(void)
 {
     int i = 10;
-    printf("Hello %d", i);
+    while (i < 12)
+    {
+        printf("Hello %d", i);
+        i++
+    }
+
     return 0;
 }
