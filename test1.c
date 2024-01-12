@@ -2,6 +2,7 @@
 
 int main(void)
 {
-    printf("hello");
+    int i = 10;
+    printf("Hello");
     return 0;
 }
