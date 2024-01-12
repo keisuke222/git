@@ -6,7 +6,7 @@ int main(void)
     while (i < 12)
     {
         printf("Hello %d", i);
-        i++
+        i++;
     }
 
     return 0;
